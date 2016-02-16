@@ -1,0 +1,71 @@
+/* Skapad av Jonathan Bladström - 2016 */
+* {
+  box-sizing: border-box;
+  font-family: 'Bangers', cursive;
+  color: #ecf0f1;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 3px 3px #000;
+}
+
+/* Marvel Intro
+============================== */
+.header {
+  height: 100vh;
+  background: url("https://49.media.tumblr.com/tumblr_m9jfm1NchQ1rab6tio1_500.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 400px;
+  box-shadow: 0 0 0 30px #fff;
+}
+
+
+/* Hulk
+============================== */
+.hulk {
+  height: 100vh;
+  padding: 30px;
+  background: url("http://wallpaper.pickywallpapers.com/1920x1080/hulk-grabbing-you.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 500px;
+  border: 5px solid #2c3e50;
+  box-shadow: 0 0 0 30px #fff;
+}
+/* Iron Man
+============================== */
+.iron-man {
+  height: 100vh;
+  background: url("http://eskipaper.com/images/iron-man-3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 500px;
+  border: 5px solid #2c3e50;
+  box-shadow: 0 0 0 30px #fff;
+}
+/* Captain America
+============================== */
+.captain-america {
+  height: 100vh;
+  background: url("http://orig14.deviantart.net/73a7/f/2014/152/b/c/captain_america_tws_wallpaper_1920x1080_by_sachso74-d7kkuvx.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 500px;
+  border: 5px solid #2c3e50;
+  box-shadow: 0 0 0 30px #fff;
+}
+
+div {
+  border: 30px solid #fff;
+}
+
+/* Footer
+============================== */
+footer {
+  height: 100vh;
+  background: url("http://images-cdn.moviepilot.com/images/c_limit,h_1080,w_1920/t_mp_quality/k53f6ymuxyirmvupoktt/avengers-infinity-war-expectations-from-marvel-phase-3-436847.jpg");
+  background-size: cover;
+  max-height: 500px;
+  border: 5px solid #2c3e50;
+  box-shadow: 0 0 0 30px #fff;
+}
